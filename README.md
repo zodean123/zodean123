@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
 
-<h1 align="center">Hey there🤘, I'm Dipan Kumar</h1>
+<h1 align="center">Hey there🤘</h1>
 
 
 
