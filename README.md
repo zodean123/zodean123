@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Dipan Kumar</h1>
 <h3 align="center">A MERN stack developer</h3>
-(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif")
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 - 🔭 I’m currently working on [Blog_Post](https://github.com/zodean123/Blog_Post)
 
 - 🌱 I’m currently learning **Backend,Java for Android dev and also AWS.**
