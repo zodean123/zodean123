@@ -14,7 +14,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HKX-0dQNgqz0fCe4bfTSRaszzvvqOqV0/view?usp=sharing](https://drive.google.com/file/d/1HKX-0dQNgqz0fCe4bfTSRaszzvvqOqV0/view?usp=sharing)
 
 - ⚡ Fun fact **I just found that everything is so simple!!!!
--  Hello World program requires u to write only printf("Hello World");**
+    Hello World program requires u to write only printf("Hello World");**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
