@@ -20,11 +20,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/zodean_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zodean_123" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dipan mallick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipan mallick" height="30" width="40" /></a>
+<a href="https://devfolio.co/@zodean_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zodean_123" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dipankumarmallick-ni0586t/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipan mallick" height="30" width="40" /></a>
 <a href="https://instagram.com/dipan.kumar_mallick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dipan.kumar_mallick" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/zodean_123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="zodean_123" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/zodean_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zodean_123" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/dipanmallick7085" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zodean_123" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/zodean123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zodean123" height="30" width="40" /></a>
 </p>
 
