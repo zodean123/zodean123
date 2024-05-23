@@ -1,7 +1,15 @@
 ![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
 
-<h1 align="center">Hi 👋, I'm Dipan Kumar</h1>
-<h3 align="center">A MERN stack developer</h3>
+<h1 align="center">Hey there🤘, I'm Dipan Kumar</h1>
+
+
+
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=AA2AF7&center=true&width=530&height=60&lines=I'm+Dipan+Kumar;A+Passionate+Learner;A+Developer;A+UI+Designer;A+Problem+Solver">
+</p>
+
+
 <img align="right" alt="Coding" width="200" height = "300" src="https://i.pinimg.com/564x/d5/7a/5e/d57a5e7a824129f11fea640817232bc2.jpg">
 - 🔭 I’m currently working on [Blog_Post](https://github.com/zodean123/Blog_Post)
 
