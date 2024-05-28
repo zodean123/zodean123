@@ -8,7 +8,8 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=AA2AF7&center=true&width=530&height=60&lines=I'm+Dipan+Kumar;A+Passionate+Learner;A+Developer;A+UI+Designer;A+Problem+Solver">
 </p>
-
+<br>
+<br>
 
 <img align="right" alt="Coding" width="220" height = "250" src="https://i.pinimg.com/564x/d5/7a/5e/d57a5e7a824129f11fea640817232bc2.jpg">
 - 🔭 I’m currently working on [Blog_Post](https://github.com/zodean123/Blog_Post)
