@@ -10,7 +10,7 @@
 </p>
 
 
-<img align="right" alt="Coding" width="200" height = "250" src="https://i.pinimg.com/564x/d5/7a/5e/d57a5e7a824129f11fea640817232bc2.jpg">
+<img align="right" alt="Coding" width="200" height = "230" src="https://i.pinimg.com/564x/d5/7a/5e/d57a5e7a824129f11fea640817232bc2.jpg">
 - 🔭 I’m currently working on [Blog_Post](https://github.com/zodean123/Blog_Post)
 
 - 🌱 I’m currently learning **Backend,Java for Android dev and also AWS.**
