@@ -53,4 +53,4 @@
 
 # 📊 GitHub Stats:
 <img align = "left" src="https://api.githubtrends.io/user/svg/zodean123/repos?time_range=one_year&group=other&theme=dark">
-<img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjit-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+<img align = "center" src="https://api.githubtrends.io/user/svg/zodean123/langs?time_range=one_year&group=other&theme=dark">
