@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=AA2AF7&center=true&width=530&height=60&lines=I'm+Dipan+Kumar;A+Passionate+Learner;A+Developer;A+UI+Designer;A+Problem+Solver">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=AA2AF7&center=true&width=530&height=60&lines=I'm+Dipan+Kumar;A+Passionate+Learner;A+Developer;An+UI+Designer;A+Problem+Solver">
 </p>
 <br>
 <br>
