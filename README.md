@@ -12,9 +12,9 @@
 <br>
 
 <img align="right" alt="Coding" width="220" height = "250" src="https://i.pinimg.com/564x/d5/7a/5e/d57a5e7a824129f11fea640817232bc2.jpg">
-- 🔭 I’m currently working on [Blog_Post](https://github.com/zodean123/Blog_Post)
+- 🔭 I’m currently working on [Conference Website](https://github.com/iqbalcodes6602/conference-website-rp)
 
-- 🌱 I’m currently learning **Backend,Java for Android dev and also AWS.**
+- 🌱 I’m currently learning **Backend,React Native for Android dev and also AWS.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zodean123](https://github.com/zodean123)
 
